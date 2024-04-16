@@ -38,21 +38,7 @@ https://movie-website2.vercel.app
 * View detailed information about each movie
 
 
-## How to run? (Type these commands in the terminal)
 
-1. Clone from Github or Download ZIP
-
-   > `git clone https://github.com/khadijehsadeghi/movie-website.git`
-
-2. Install all the dependencies
-
-   > npm install
-
-3. Run project 
-
-   > npm run dev
-  
-4. Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
 
 ## Would you mind support me?
 
