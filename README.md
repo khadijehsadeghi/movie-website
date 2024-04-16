@@ -6,7 +6,17 @@ Movie App is a React-based movie website that allows users to search for movies 
 
 
 
+https://github.com/khadijehsadeghi/movie-website/assets/140825672/604ec38f-6531-43d3-bef4-a5db54c318f5
 
+
+
+
+
+
+
+# View Demo
+
+https://movie-website2.vercel.app
 
 # Features & Technology
 
@@ -17,7 +27,7 @@ Movie App is a React-based movie website that allows users to search for movies 
 * Easy maintainable and scalable folder structure
 * Fetch data from Rest API with Axios
 * Create custom hooks
-*Create carousel/slider without library
+* Create carousel/slider without library
 * Create Infinite scrolling
 * Loading Skeleton while fetching data from API
 * Error handling & 404 forbidden page
