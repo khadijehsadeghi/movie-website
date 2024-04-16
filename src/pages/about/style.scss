@@ -1,0 +1,45 @@
+@import "../../mixins.scss";
+.detailsAbout {
+  width: 100%;
+  background-color: var(--black);
+  padding-top: 100px;
+  margin-bottom: 50px;
+  color: white;
+  @include md {
+    margin-bottom: 0;
+    padding-top: 120px;
+    min-height: 700px;
+  }
+
+  .content {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+
+    .overview {
+      margin: 25px;
+      .heading {
+        font-size: 34px;
+        margin-bottom: 30px;
+      }
+      .description {
+        line-height: 24px;
+        margin-bottom: 30px;
+        opacity: 0.7;
+      }
+      .menuItems {
+        margin: 20px;
+        @include md {
+          margin: 50px;
+        }
+        .menuItem {
+          line-height: 30px;
+          opacity: 0.7;
+          &:hover {
+            color: var(--blue);
+          }
+        }
+      }
+    }
+  }
+}
