@@ -43,7 +43,6 @@ Movie App is a React-based movie website that allows users to search for movies 
    > npm run dev
   
 4. Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
-5. Register and Login
 
 ## Would you mind support me?
 
